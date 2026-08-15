@@ -144,7 +144,7 @@ Receiver:
 
 ## CREDITS
 
-Developed by: Chanikya,koneti_reddy
+Developed by: Chanikya,konetireddy
 GitHub Repository: [https://github.com/ChanikyaPonduri/Dho2_Minute_Share](https://github.com/ChanikyaPonduri/Dho2_Minute_Share)
 
 ## LICENSE & USAGE
