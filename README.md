@@ -142,6 +142,11 @@ Receiver:
 * Resistant to unauthorized access
 
 
+## CREDITS
+
+Developed by: Chanikya,koneti_reddy
+GitHub Repository: [https://github.com/ChanikyaPonduri/Dho2_Minute_Share](https://github.com/ChanikyaPonduri/Dho2_Minute_Share)
+
 ## LICENSE & USAGE
 
 This project is intended for educational and personal use.
