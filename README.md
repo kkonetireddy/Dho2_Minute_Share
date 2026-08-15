@@ -148,8 +148,3 @@ This project is intended for educational and personal use.
 Commercial usage requires permission.
 
 
-## CREDITS
-
-Developed by: Chanikya
-GitHub Repository: [https://github.com/ChanikyaPonduri/Dho2_Minute_Share](https://github.com/ChanikyaPonduri/Dho2_Minute_Share)
-
